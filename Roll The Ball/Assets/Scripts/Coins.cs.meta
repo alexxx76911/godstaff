@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3ba7deb6c6348c14dbdc776bfbd60cc7
+timeCreated: 1446643810
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - coineff: {fileID: 101844, guid: 6ec7e2aad0105f542a493c5954c5348f, type: 2}
+  - CoinSFX: {fileID: 198844, guid: 4ae79a05eb5e2564eb8bcda069e39538, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
